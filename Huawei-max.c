@@ -1,4 +1,7 @@
 #include <stdio.h>
+//this is a test for pull request
+
+
 //获取数据可以使用scanf来获取
 //为了保证获取数据质量的可靠性，在scanf开始时加上一个空格
 //scanf(" %c %d %d",&argv_0,&argv_1,&argv_2);
